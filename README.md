@@ -1,6 +1,6 @@
 # Main Notes:
 
-    Screenshot for API executions in "screenshots" folder.
+    Screenshots for API executions in "screenshots" folder.
 
 # Misc Notes:
 
